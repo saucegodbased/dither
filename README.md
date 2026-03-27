@@ -1,6 +1,6 @@
 # Dither
 
-A survival game built entirely with Canvas 2D dithered dots. Inspired by the dither effect on [linear.app](https://linear.app).
+A survival game built entirely with Canvas 2D dithered dots.
 
 ## Gameplay
 
